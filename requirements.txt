@@ -4,3 +4,6 @@ scrapy
 scrapyd>=1.2.1
 scrapy-redis
 logparser>=0.8.2
+SQLAlchemy==1.4.12
+PyMySQL==1.0.2
+redis==4.2.0
